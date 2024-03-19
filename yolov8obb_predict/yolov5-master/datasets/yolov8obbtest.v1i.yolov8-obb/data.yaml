@@ -1,0 +1,9 @@
+path: ./yolov8obbtest.v1i.yolov8-obb
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: juicebox
+  1: paper
